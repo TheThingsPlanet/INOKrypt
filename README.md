@@ -1,4 +1,4 @@
-## Welcome to INOCrypt
+## Welcome to INOKrypt
 
 INOCrypt for secure communication between IoT Devices and IoT Server.
 
