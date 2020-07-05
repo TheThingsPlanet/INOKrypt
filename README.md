@@ -1,6 +1,6 @@
 ## Welcome to INOKrypt
 
-INOCrypt for secure communication between IoT Devices and IoT Server.
+INOKrypt for secure communication between IoT Devices and IoT Server.
 
 You can use the [editor on GitHub](https://github.com/TheThingsPlanet/INOCrypt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
